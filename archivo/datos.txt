@@ -1,0 +1,5 @@
+Prodcuto1  AB1	12.5
+Producto2  AC1	18.5
+Producto3  AD1	154.85
+Producto4  AE1	1524.63
+Producto5  AF1	2.5
